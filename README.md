@@ -1,2 +1,5 @@
 # demo
-This is just a demo for an activity for UCB bootcamp UX/UI
+
+Just a demo for an activity for UCB bootcamp UX/UI
+
+Livin' La Vida Loca
